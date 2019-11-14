@@ -1,6 +1,5 @@
 #pragma once
 
-#include "tile.h"
 #include "Board.h"
 #include "Heuristic.h"
 #include <stack>
