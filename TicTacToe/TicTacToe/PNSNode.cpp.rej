@@ -1,0 +1,10 @@
+diff a/TicTacToe/TicTacToe/PNSNode.cpp b/TicTacToe/TicTacToe/PNSNode.cpp	(rejected hunks)
+@@ -93,8 +93,6 @@
+ 	PNSNode* nextParent = this;
+ 	while (nextParent->depth > 0) // we iterate over all parents until we reach the root
+ 	{
+-		if (nextParent->expanded && !nextParent->solved)
+-		{
+ 			nextParent->updatePNandDN(data,transpositionTable );
+ 	nextParent = nextParent->parent;
+ 	}

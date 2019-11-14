@@ -1,0 +1,112 @@
+﻿  Board.cpp
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(47): warning C4244: "Argument": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(53): warning C4244: "return": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(58): warning C4244: "return": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(63): warning C4244: "return": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(236): warning C4244: "Initialisierung": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(370): warning C4244: "Initialisierung": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(397): warning C4244: "=": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(409): warning C4244: "=": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(466): warning C4244: "=": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(478): warning C4244: "=": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(487): warning C4244: "Initialisierung": Konvertierung von "const _Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=int64_t
+          ]
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(491): warning C4244: "Initialisierung": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(495): warning C4244: "Initialisierung": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(531): warning C4244: "=": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(543): warning C4244: "=": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(551): warning C4244: "Initialisierung": Konvertierung von "const _Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=int64_t
+          ]
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(554): warning C4244: "Initialisierung": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(558): warning C4244: "Initialisierung": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(594): warning C4244: "=": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(606): warning C4244: "=": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(614): warning C4244: "Initialisierung": Konvertierung von "const _Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=int64_t
+          ]
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(617): warning C4244: "Initialisierung": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(621): warning C4244: "Initialisierung": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(173): warning C4244: "Initialisierung": Konvertierung von "int64_t" in "_Ty2", möglicher Datenverlust
+          with
+          [
+              _Ty2=uint16_t
+          ]
+  c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(20): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-Vorlage "std::pair<int64_t,uint16_t>::pair<int64_t,int64_t&,0>(_Other1 &&,_Other2) noexcept".
+          with
+          [
+              _Other1=int64_t,
+              _Other2=int64_t &
+          ]
+  c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\board.cpp(20): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-Vorlage "std::pair<int64_t,uint16_t>::pair<int64_t,int64_t&,0>(_Other1 &&,_Other2) noexcept".
+          with
+          [
+              _Other1=int64_t,
+              _Other2=int64_t &
+          ]
+  ComputeMove.cpp
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\computemove.cpp(15): warning C4244: "=": Konvertierung von "int16_t" in "uint8_t", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\computemove.cpp(79): warning C4244: "Argument": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\computemove.cpp(103): warning C4244: "Argument": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\computemove.cpp(128): warning C4244: "Argument": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\computemove.cpp(142): warning C4244: "Argument": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\computemove.cpp(288): warning C4244: "Argument": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\computemove.cpp(303): warning C4244: "Argument": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\computemove.cpp(312): warning C4244: "Argument": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\computemove.cpp(325): warning C4244: "Argument": Konvertierung von "int64_t" in "int", möglicher Datenverlust
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(208): warning C4244: "Initialisierung": Konvertierung von "const _Ty2" in "_Ty2", möglicher Datenverlust
+          with
+          [
+              _Ty2=uint16_t
+          ]
+          and
+          [
+              _Ty2=uint8_t
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3906): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-Vorlage "std::pair<int64_t,uint8_t>::pair<int64_t,uint16_t,0>(const std::pair<int64_t,uint16_t> &) noexcept".
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3905): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-Vorlage "std::pair<int64_t,uint8_t>::pair<int64_t,uint16_t,0>(const std::pair<int64_t,uint16_t> &) noexcept".
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(4000): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-Vorlage "std::pair<_RanIt,_RanIt> std::_Partition_by_median_guess_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_Pr)".
+          with
+          [
+              _RanIt=std::pair<int64_t,uint16_t> *,
+              _Pr=ComputeMove::addNewMoves::<lambda_2c03a36e0df3d359cd3ff214e2b7ed0a>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(4034): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-Vorlage "void std::_Sort_unchecked<std::pair<int64_t,uint16_t>*,_Fn>(_RanIt,_RanIt,__int64,_Pr)".
+          with
+          [
+              _Fn=ComputeMove::addNewMoves::<lambda_2c03a36e0df3d359cd3ff214e2b7ed0a>,
+              _RanIt=std::pair<int64_t,uint16_t> *,
+              _Pr=ComputeMove::addNewMoves::<lambda_2c03a36e0df3d359cd3ff214e2b7ed0a>
+          ]
+  c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\computemove.cpp(238): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-Vorlage "void std::sort<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,ComputeMove::addNewMoves::<lambda_2c03a36e0df3d359cd3ff214e2b7ed0a>>(const _RanIt,const _RanIt,_Pr)".
+          with
+          [
+              _Ty=std::pair<int64_t,uint16_t>,
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::pair<int64_t,uint16_t>>>>,
+              _Pr=ComputeMove::addNewMoves::<lambda_2c03a36e0df3d359cd3ff214e2b7ed0a>
+          ]
+  Heuristic.cpp
+  PNSController.cpp
+  PNSData.cpp
+  PNSNode.cpp
+  PNSTranspositionTable.cpp
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\pnstranspositiontable.cpp(14): warning C4244: "=": Konvertierung von "unsigned short" in "int8_t", möglicher Datenverlust
+  ReverseMove.cpp
+  Test.cpp
+  TicTacToe.cpp
+  TranspositionTable.cpp
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\transpositiontable.cpp(26): warning C4244: "Argument": Konvertierung von "int64_t" in "int8_t", möglicher Datenverlust
+c:\users\manuel neuberger\documents\masterarbeitc-\tictactoe\tictactoe\transpositiontable.cpp(38): warning C4244: "Argument": Konvertierung von "int64_t" in "int8_t", möglicher Datenverlust
+  Code wird generiert.
+  6 of 1230 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  TicTacToe.vcxproj -> C:\Users\Manuel Neuberger\Documents\MasterArbeitc-\TicTacToe\x64\Release\TicTacToe.exe

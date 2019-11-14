@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  board.cpp
+  ComputeMove.cpp
+  ReverseMove.cpp
+  Test.cpp
+  TicTacToe.cpp
+  TranspositionTable.cpp
+  Code wird generiert.
+  903 of 905 functions (99.8%) were compiled, the rest were copied from previous compilation.
+    635 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  TicTacToe.vcxproj -> C:\Users\Manuel Neuberger\Documents\MasterArbeitc-\TicTacToe\Release\TicTacToe.exe
